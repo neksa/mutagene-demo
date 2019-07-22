@@ -2,5 +2,5 @@ name: mutagene-environment
 dependencies:
   - python>=3.6
   - pip
-pip:
-  - mutagene
+  pip:
+    - mutagene
