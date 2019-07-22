@@ -1,0 +1,7 @@
+name: mutagene-environment
+dependencies:
+  - python>=3.6
+  - anaconda
+  - pip
+pip:
+  - mutagene
